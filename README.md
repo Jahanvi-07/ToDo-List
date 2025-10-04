@@ -81,7 +81,6 @@ Then open [http://localhost:3000](http://localhost:3000) to view it in your brow
 ## 👩‍💻 Author
 
 **Jahanvi Saini**
+
 💻 Built as part of *Front-End Framework Basics* task.
 
-
-Would you like me to make a **shorter version (for submission reports or zipped project)** or keep this **full GitHub-style version**?
