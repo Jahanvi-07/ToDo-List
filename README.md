@@ -31,7 +31,7 @@ The project demonstrates understanding of **React components**, **state manageme
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com//todo-list.git
+https://github.com/Jahanvi-07/ToDo-List.git
 cd todo-list
 ```
 
