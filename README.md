@@ -1,15 +1,15 @@
 # ToDo-List
 
-# 📝 React To-Do List App
+# 📌 React To-Do List App
 
-## Overview
+## 📝 Overview
 
 This is a simple **To-Do List App** built using **React.js**.
 It allows users to **add**, **edit**, and **delete** tasks in a clean, responsive interface.
 The project demonstrates understanding of **React components**, **state management**, and **event handling**.
 
 
-## Features
+## ⚡Features
 
 * Add new tasks
 * Edit existing tasks
@@ -66,11 +66,11 @@ Then open [http://localhost:3000](http://localhost:3000) to view it in your brow
 * Styled buttons for better user experience.
 
 
-## 📸 Preview
+## 📸 Screenshot
 
+<img width="1029" height="1015" alt="Image" src="https://github.com/user-attachments/assets/a981b8c1-c4ae-44bc-8e53-0dedef8b62f8" />
 
-
-## Future Enhancements
+## 🌐 Future Enhancements
 
 * Save tasks using **localStorage**
 * Add “Completed” status
